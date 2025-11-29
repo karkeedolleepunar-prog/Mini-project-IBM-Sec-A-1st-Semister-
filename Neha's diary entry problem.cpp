@@ -1,3 +1,4 @@
+//Reverse the array(Neha's diary entry)
 #include <iostream>
 using namespace std;
 
