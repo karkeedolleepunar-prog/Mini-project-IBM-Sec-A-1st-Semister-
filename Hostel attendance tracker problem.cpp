@@ -1,3 +1,4 @@
+//Hostel attendance tracker 
 #include <iostream>
 using namespace std;
 
